@@ -10,6 +10,7 @@ namespace Tasky.Shared
 	{
 		static TodoItemManager ()
 		{
+			System.Console.WriteLine ("jhkfjdhfjnxcfjkdhfjdfn");
 		}
 		
 		public static TodoItem GetTask(int id)
