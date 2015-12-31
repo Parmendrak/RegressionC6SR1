@@ -18,6 +18,7 @@ namespace Tasky.ApplicationLayer
 			Notes = item.Notes;
 			// TODO: ensure the completed property is displayed on the screen
 			Done = item.Done;
+			//Chaneh in code
 		}
 		
 		[Entry("task name")]
